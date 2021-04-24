@@ -12,13 +12,13 @@ bokiboki
 ├── README.md
 └── Source
     ├── GetStarted
-    │   ├── Characters						//角色
-    │   │   ├── Enemys						//敌人
+    │   ├── Characters					//角色
+    │   │   ├── Enemys					//敌人
     │   │   │   ├── Enemy.cpp
     │   │   │   ├── Enemy.h
     │   │   │   ├── EnemyAnimInstance.cpp
     │   │   │   └── EnemyAnimInstance.h
-    │   │   └── Player						//玩家
+    │   │   └── Player					//玩家
     │   │       ├── ZhuJue_AnimInstance.cpp
     │   │       ├── ZhuJue_AnimInstance.h
     │   │       ├── ZhuJue_Character.cpp
@@ -53,7 +53,7 @@ bokiboki
 
 ### TODO（可选）
 
-接下来的开发/维护计划。S
+接下来的开发/维护计划。
 
 
 
