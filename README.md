@@ -12,34 +12,34 @@ bokiboki
 ├── README.md
 └── Source
     ├── GetStarted
-    │   ├── Characters					//角色
-    │   │   ├── Enemys					//敌人
+    │   ├── Characters					// 角色
+    │   │   ├── Enemys					// 敌人
     │   │   │   ├── Enemy.cpp
     │   │   │   ├── Enemy.h
     │   │   │   ├── EnemyAnimInstance.cpp
     │   │   │   └── EnemyAnimInstance.h
-    │   │   └── Player					//玩家
+    │   │   └── Player					// 玩家
     │   │       ├── ZhuJue_AnimInstance.cpp
     │   │       ├── ZhuJue_AnimInstance.h
     │   │       ├── ZhuJue_Character.cpp
     │   │       └── ZhuJue_Character.h
-    │   ├── GameMode					//游戏模式
+    │   ├── GameMode					// 游戏模式
     │   │   ├── Level1_GameMode.cpp
     │   │   └── Level1_GameMode.h
-    │   ├── GamePlay					//组件
-    │   │   ├── BaoZhaWu.cpp			//爆炸物
+    │   ├── GamePlay					// 组件
+    │   │   ├── BaoZhaWu.cpp			// 爆炸物
     │   │   ├── BaoZhaWu.h
     │   │   ├── FuDongPingTai.cpp
     │   │   ├── FuDongPingTai.h
-    │   │   ├── JiaoHuXiTong.cpp		//交互系统
+    │   │   ├── JiaoHuXiTong.cpp		// 交互系统
     │   │   ├── JiaoHuXiTong.h
-    │   │   ├── JiGuanMen_Actor.cpp		//机关门
+    │   │   ├── JiGuanMen_Actor.cpp		// 机关门
     │   │   ├── JiGuanMen_Actor.h
     │   │   ├── ShengChengSpace.cpp		
     │   │   ├── ShengChengSpace.h
-    │   │   ├── ShiQuWu.cpp				//拾取物
+    │   │   ├── ShiQuWu.cpp				// 拾取物
     │   │   ├── ShiQuWu.h
-    │   │   ├── Weapon_Actor.cpp		//武器
+    │   │   ├── Weapon_Actor.cpp		// 武器
     │   │   └── Weapon_Actor.h
     │   ├── GetStarted.Build.cs
     │   ├── GetStarted.cpp
@@ -49,6 +49,7 @@ bokiboki
     ├── GetStarted.Target.cs
     └── GetStartedEditor.Target.cs
 </code></pre>
+
 
 
 ### TODO（可选）
